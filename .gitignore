@@ -1,0 +1,7 @@
+#All compiled java files
+out/
+#All binary files
+bin/
+#All inteliJ configuration files
+.idea/
+powp-rhymers.iml
