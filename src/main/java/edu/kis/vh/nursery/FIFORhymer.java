@@ -20,8 +20,4 @@ public class FIFORhymer extends defaultCountingOutRhymer {
     public defaultCountingOutRhymer getCountingOutTemp() {
         return countingOutTemp;
     }
-
-    public void setCountingOutTemp(defaultCountingOutRhymer countingOutTemp) {
-        this.countingOutTemp = countingOutTemp;
-    }
 }
