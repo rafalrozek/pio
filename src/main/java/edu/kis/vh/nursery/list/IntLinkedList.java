@@ -45,6 +45,7 @@ public class IntLinkedList {
      *
      * @return false
      *
+     * @TODO: zaimplementowac maksymalną wielkość listy
      */
     public boolean isFull() {
         return false;
